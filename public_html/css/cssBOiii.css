@@ -1,0 +1,13 @@
+.googleFont {
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 72px;
+    color: white;
+} 
+
+.backgroundColor {
+    background-color: black;
+}
+
+.grayColor {
+    color: lightgray;
+}
