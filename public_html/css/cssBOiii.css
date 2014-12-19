@@ -10,4 +10,16 @@
 
 .grayColor {
     color: lightgray;
+    font-size: 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-left-color: black;
+    border-right-color: black;
+    padding-left: 8px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.topText {
+   
 }
